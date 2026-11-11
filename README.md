@@ -48,3 +48,19 @@ Never commit `terraform.tfstate`, `*.tfvars` or AWS keys. See `.gitignore`.
 ## Author
 
 **Vishal Pawar** - [GitHub](https://github.com/Vishalpawar4501)
+## Project Screenshots
+
+### 1. AWS Connection
+![AWS Connection](images/01-aws-connection.png)
+
+### 2. Terraform Initialization
+![Terraform Init](images/02-terraform-init.png)
+
+### 3. Terraform Plan
+![Terraform Plan](images/03-terraform-plan.png)
+
+### 4. Terraform Apply
+![Terraform Apply](images/04-terraform-apply.png)
+
+### 5. EC2 Instance Running
+![EC2 Instance](images/05-ec2-instance.png)
